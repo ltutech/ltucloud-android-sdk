@@ -1,0 +1,9 @@
+This file describe the libs linked to this project:
+
+- android-support-v4.jar: compatibility library for older android versions.
+    See http://developer.android.com/tools/extras/support-library.html
+- gson-2.2.2.jar: object serialization from/to JSON
+    See https://code.google.com/p/google-gson/
+- android-async-http.jar: http client for android
+    See http://loopj.com/android-async-http/
+    Jar file was built from https://github.com/loopj/android-async-http.git (sha1: 4bb81959b17a3ea0b41002b888739dd2207c6b5a)
